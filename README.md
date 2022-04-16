@@ -14,8 +14,15 @@
     <li>
       <a href="#installation">Installation</a>
       <ul>
-        <li><a href="#Local">Linux & iOS</a></li>
-         <li><a href="#Production">Production</a></li>
+        <li><a href="#Linux & iOS">Linux & iOS</a></li>
+         <li><a href="#Windows">Windows</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#Utilisation">Utilisation</a>
+      <ul>
+        <li><a href="#Deployer">Déployer</a></li>
+         <li><a href="#Sauvegarder">Sauvegarder</a></li>
       </ul>
     </li>
     <li><a href="#Annexe">Annexe</a></li>
@@ -38,6 +45,17 @@ La chance vous n'avez rien n'a faire Rsync est installé par defaut.
 ### Windows
 
 ..
+
+## Utilisation
+
+### Deployer
+
+Deployer
+
+### Sauvegarder
+
+Sauvegarder
+
 
 ## Annexe
 
