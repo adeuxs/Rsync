@@ -1,0 +1,2 @@
+#!/bin/sh
+rsync -avhP --delete --exclude-from=ExcludeRsync --info=progress2 ./ -e 'ssh -p NUM_PORT' IDENTIFIANT@IP_DISTANT:~/public_html/
