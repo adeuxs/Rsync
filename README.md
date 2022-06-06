@@ -32,12 +32,12 @@
 ## Presentation
 Déployer et Sauvegarder votre projet facilement avec la commande Rsync.
 
-Si vous ếtes developpeur web, vous avez surement remarquer que pour déployer votre projet local vers le serveur distant c'est pas facile avec FileZilla ou autre logiciel FTP.
+Si vous êtes développeur web, vous avez sûrement remarqué que pour déployer votre projet local vers le serveur distant ce n’est pas facile avec FileZilla ou autre logiciel FTP.
 
 Par contre si vous avez vos accès SSH, Vous pouvez utiliser RSYNC facilement afin de déployer rapidement.
 
-Rsync est une commande déjà installé sur les ordinateur sous le noyeau linux et iOS
-Vous pouvez l'installer facilement sur windows.
+Rsync est une commande déjà installée sur les ordinateurs sous le noyau linux et iOS Vous pouvez l'installer facilement sur Windows.
+
 
 
 ## Installation 
